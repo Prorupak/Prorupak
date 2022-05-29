@@ -33,8 +33,6 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupakSapkota123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/RupakSapkota123/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 <br />
 
