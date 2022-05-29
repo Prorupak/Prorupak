@@ -14,7 +14,6 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 - 🔭 I’m currently seeking for intern opportunities
 - 🌱 I’m currently learning everything 🤣
 - 💻 Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding .
 - 📫 How to reach me: sapkotarupak5570@gmail.com.
 - 😄 Pronouns: CodeRush, Rupak, RupakSapkota.
 - ⚡ Fun fact: I play games and do `Farming`.
