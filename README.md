@@ -6,7 +6,7 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 
 📪 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@RupakSapkota-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rupak_Sapkota_)](https://twitter.com/Rupak_Sapkota_) [![Mail Badge](https://img.shields.io/badge/-CodeRush-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeblmWZoFPQNTPy0NzkZQlQ) [![Linkedin Badge](https://img.shields.io/badge/-RupakS.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupaksapkota/) [![Mail Badge](https://img.shields.io/badge/-@rupak_sapkota56-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rupak_sapkota56/) [![Mail Badge](https://img.shields.io/badge/-RupakSapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sapkotarupak5570@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@RupakSapkota-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rupak_Sapkota_)](https://twitter.com/Rupak_Sapkota_) &nbsp; [![Mail Badge](https://img.shields.io/badge/-CodeRush-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeblmWZoFPQNTPy0NzkZQlQ) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-RupakS.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupaksapkota/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-@rupak_sapkota56-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rupak_sapkota56/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-RupakSapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sapkotarupak5570@gmail.com)
 
 <hr>
 <!-- TODO: Add last video link -->
@@ -20,18 +20,20 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 
 <hr>
 
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)[![Express Badge](https://img.shields.io/badge/-MONGODB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)[![GSAP Badge](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&labelColor=black&logo=Greensock&logoColor=88CE02)](#)[![FRAMER Badge](https://img.shields.io/badge/-framer-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)](#)[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)[![FIGMA Badge](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)&nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) &nbsp;[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)&nbsp;[![Express Badge](https://img.shields.io/badge/-MONGODB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)&nbsp;[![GSAP Badge](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&labelColor=black&logo=Greensock&logoColor=88CE02)](#)&nbsp;[![FRAMER Badge](https://img.shields.io/badge/-framer-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)](#)&nbsp;[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;[![FIGMA Badge](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
 
 <br>
 
-#### Most Used Languages
+<!-- <h1 align="center">Github Contribution Stats</h1> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupakSapkota123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupakSapkota123&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://raw.githubusercontent.com/RupakSapkota123/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/RupakSapkota123/github-stats-transparent/output/generated/languages.svg)
 
 <br />
 
@@ -53,6 +55,7 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 </summary>
 
 <br >
+
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -65,18 +68,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<h1 align="center">Github Contribution Stats</h1>
-
-<!-- <p align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" /> A treasure! :sparkles:
-</p> -->
-
-<!-- ####  Stats
-
-![rupak's github stats](https://github-readme-stats.vercel.app/api?username=RupakSapkota123&count_private=true&theme=tokyonight&hide=contribs,prs) -->
-<!--
-#### Contribution  -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupakSapkota123&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RupakSapkota123&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
