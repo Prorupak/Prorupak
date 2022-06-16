@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=9DEE02&height=35&lines=Hi+I'm+Rupak+%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B1;Have+a+good+day!+%F0%9F%94%A5)](https://git.io/typing-svg)
 <!-- <hr> -->
-I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time coding outstanding projects or watching anime maybe.🤣🤣
+I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time coding outstanding projects.
 
 📪 Reach me out!
 
@@ -14,7 +14,7 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 - 🔭 I’m currently seeking for intern opportunities
 - 🌱 I’m currently learning everything 🤣
 - 💻 Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: sapkotarupak5570@gmail.com.
+- 📫 How to reach me: `sapkotarupak5570@gmail.com`.
 - 😄 Pronouns: CodeRush, Rupak, RupakSapkota.
 - ⚡ Fun fact: I play games and do `Farming`.
 
