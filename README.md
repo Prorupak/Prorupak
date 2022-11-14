@@ -6,17 +6,15 @@ I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time codin
 
 📪 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@RupakSapkota-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rupak_Sapkota_)](https://twitter.com/Rupak_Sapkota_) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-RupakS.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupaksapkota/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-@rupak_sapkota56-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rupak_sapkota56/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-RupakSapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sapkotarupak5570@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@RupakSapkota-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rupak_Sapkota_)](https://twitter.com/Rupak_Sapkota_) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-RupakS.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupaksapkota/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-@rupak_sapkota56-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rupak_sapkota56/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-RupakSapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rupaksapkota2000@gmail.com)
 
 <hr>
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently seeking for intern opportunities
 - 🌱 I’m currently learning everything 🤣
-- 💻 Most used line of code `git commit -m "Initial Commit"`
+- 💻 Most used line of code `git commit -m "Initial Commit"`😅
 - 📫 How to reach me: `rupaksapkota2000@gmail.com`.
-- 😄 Pronouns: CodeRush, Rupak, RupakSapkota.
-- ⚡ Fun fact: I play games and do `Farming`.
 
 <hr>
 
