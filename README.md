@@ -1,3 +1,6 @@
+# 🏄‍♂️ Rupak Sapkota
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I am a passionate and skilled developer and designer with a deep commitment to creating technology that is accessible to everyone. My dedication to user-centered design and innovation helps me bring a unique perspective to solving complex problems. I am committed to making a positive impact on the world through accessible and innovative technology that makes a difference in people's lives.
 
@@ -43,16 +46,6 @@ I am a passionate and skilled developer and designer with a deep commitment to c
 <br >
 
 #### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-<!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RupakSapkota123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
