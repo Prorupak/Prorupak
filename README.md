@@ -1,8 +1,5 @@
-<!-- ## Hi I'm Rupak <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=9DEE02&height=35&lines=Hi+I'm+Rupak+%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B1;Have+a+good+day!+%F0%9F%94%A5)](https://git.io/typing-svg)
-<!-- <hr> -->
-I'm Rupak a Full Stack Web Developer and UI Designer. I Spend most of time coding outstanding projects.
+I am a passionate and skilled developer and designer with a deep commitment to creating technology that is accessible to everyone. My dedication to user-centered design and innovation helps me bring a unique perspective to solving complex problems. I am committed to making a positive impact on the world through accessible and innovative technology that makes a difference in people's lives.
 
 📪 Reach me out!
 
