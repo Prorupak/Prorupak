@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rupak Sapkota
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Designer)`**
 
 I am a passionate and skilled developer and designer with a deep commitment to creating technology that is accessible to everyone. My dedication to user-centered design and innovation helps me bring a unique perspective to solving complex problems. I am committed to making a positive impact on the world through accessible and innovative technology that makes a difference in people's lives.
 
