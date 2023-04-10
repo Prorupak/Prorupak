@@ -44,9 +44,14 @@ I am a passionate and skilled developer and designer with a deep commitment to c
 </summary>
 
 <br >
+<div align="start" >
 
 #### Coding Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RupakSapkota123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  ## Github Stats  
+  <img src="https://github-readme-stats.vercel.app/api?username=Prorupak&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 </details>
+  </div> 
