@@ -34,7 +34,7 @@ I am a passionate and skilled developer and designer with a deep commitment to c
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RupakSapkota123.RupakSapkota123)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prorupak&label=Profile%20views&color=0e75b6&style=flat" alt="Prorupak" /> </p>
 
 <hr>
 
