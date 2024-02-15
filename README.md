@@ -43,5 +43,8 @@ I am a passionate and skilled developer and designer with a deep commitment to c
   ## Github Stats  
   <img src="https://github-readme-stats.vercel.app/api?username=Prorupak&show_icons=true&count_private=true&hide_border=true" align="center" />
 
+  [![Rupak's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Rupak's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 </details>
   </div> 
