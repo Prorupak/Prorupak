@@ -4,8 +4,8 @@
 
 <p>
   <a href="https://www.sapkotarupak.com.np/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/rupaksapkota/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:sapkotarupak5570@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/prorupak/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:rupaksapkota2000@gmail.com">Email</a>
 </p>
 
 ### 01 / A little about me
@@ -22,15 +22,18 @@ My work, experience, and the thinking behind it. An editorial site built around 
 **[Compfeed ↗](https://www.sapkotarupak.com.np/work/compfeed)**  
 Work spanning Figma workflows, collaborative editing, and AI integrations. The case study is available on request through my portfolio.
 
+**[Braimy ↗](https://www.sapkotarupak.com.np/work/braimy)**  
+An AI-assisted learning platform for students in Nepal. My work covered math authoring, semantic and image search, and retrieval-backed answers.
+
 ### 03 / Tools I work with
 
-| Area                   | Stack                                           |
-| :--------------------- | :---------------------------------------------- |
-| Frontend               | React · Next.js · TypeScript · Tailwind CSS     |
-| Backend                | Node.js · NestJS · REST APIs                    |
-| Data & background jobs | PostgreSQL · Prisma · Firebase · Redis · BullMQ |
-| AI                     | LLM APIs · RAG · MCP integrations               |
-| Design & delivery      | Figma · GSAP · Docker · GitHub Actions          |
+| Area                     | Stack                                                                                                                       |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| Frontend                 | React · Next.js (App Router, SSR) · TypeScript · JavaScript · TanStack Query · Zustand · Lexical · Storybook · Tailwind CSS |
+| Backend & APIs           | Node.js · NestJS · Express.js · REST APIs · WebSockets · Socket.IO · Bull                                                   |
+| Databases & caching      | PostgreSQL · MongoDB · Redis · Firebase                                                                                     |
+| Applied AI               | OpenAI API · Gemini · LangChain · RAG · MongoDB Atlas Vector Search · Pinecone · MCP                                        |
+| Testing & infrastructure | Jest · React Testing Library · GitHub Actions · Docker · PM2 · Google Cloud Platform · Web Vitals & error monitoring        |
 
 ### 04 / Outside the code
 
@@ -44,7 +47,7 @@ Photographs from places I've been and details that made me stop for a moment.
 
 Have a role, a project, or something you'd like to talk about? I'd be glad to hear from you.
 
-**[Send me a note ↗](mailto:sapkotarupak5570@gmail.com)**
+**[Send me a note ↗](mailto:rupaksapkota2000@gmail.com)**
 
 ---
 
