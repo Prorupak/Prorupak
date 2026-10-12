@@ -1,43 +1,51 @@
-# 🏄‍♂️ Rupak Sapkota
+<a href="https://www.sapkotarupak.com.np/">
+  <img src="https://res.cloudinary.com/rotfqpq3/image/upload/v1791777464/profile-banner.svg" alt="Rupak Sapkota. Good design. Solid engineering. Full-stack developer based in Lalitpur, Nepal." width="100%" />
+</a>
 
-**`Digital Craftsman (Developer/Designer)`**
+<p>
+  <a href="https://www.sapkotarupak.com.np/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rupaksapkota/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:sapkotarupak5570@gmail.com">Email</a>
+</p>
 
-📪 Reach me out!
+### 01 / A little about me
 
-[![Twitter Badge](https://img.shields.io/badge/-@RupakSapkota-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rupak_Sapkota_)](https://twitter.com/Rupak_Sapkota_) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-RupakS.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupaksapkota/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-@rupak_sapkota56-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rupak_sapkota56/) &nbsp; [![Mail Badge](https://img.shields.io/badge/-RupakSapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sapkotarupak5570@gmail.com)
+I'm Rupak, a full-stack developer based in Lalitpur, Nepal. I build web applications with React, Next.js, and Node.js, bringing thoughtful UI, reliable backends, and practical AI integrations together.
 
-#### Top Technologies
+I like working across the whole product: how it looks, how it behaves, and what happens behind the scenes. My background in design and photography shapes how I approach the details.
 
-<!-- TODO: Make technologies links takes you to repositories -->
+### 02 / Selected work
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)&nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) &nbsp;[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) &nbsp;[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp;[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)&nbsp;[![Express Badge](https://img.shields.io/badge/-MONGODB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)&nbsp;[![GSAP Badge](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&labelColor=black&logo=Greensock&logoColor=88CE02)](#)&nbsp;[![FRAMER Badge](https://img.shields.io/badge/-framer-0055FF?style=for-the-badge&labelColor=black&logo=framer&logoColor=0055FF)](#)&nbsp;[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;[![FIGMA Badge](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+**[Portfolio ↗](https://www.sapkotarupak.com.np/)**  
+My work, experience, and the thinking behind it. An editorial site built around typography, considered motion, and a few personal touches.
 
-<br>
+**[Compfeed ↗](https://www.sapkotarupak.com.np/work/compfeed)**  
+Work spanning Figma workflows, collaborative editing, and AI integrations. The case study is available on request through my portfolio.
 
-#### Bizness
-- 🔗 [My Resume/CV](https://github.com/RupakSapkota123/resumes/blob/man/resume.pdf)
-- ✉️ sapkotarupak5570@gmail.com
+### 03 / Tools I work with
 
+| Area                   | Stack                                           |
+| :--------------------- | :---------------------------------------------- |
+| Frontend               | React · Next.js · TypeScript · Tailwind CSS     |
+| Backend                | Node.js · NestJS · REST APIs                    |
+| Data & background jobs | PostgreSQL · Prisma · Firebase · Redis · BullMQ |
+| AI                     | LLM APIs · RAG · MCP integrations               |
+| Design & delivery      | Figma · GSAP · Docker · GitHub Actions          |
 
+### 04 / Outside the code
 
-#### Profile Visits
+**[Fieldnotes ↗](https://www.sapkotarupak.com.np/blog)**  
+Notes on things I've built, problems I've worked through, and decisions worth writing down.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prorupak&label=Profile%20views&color=0e75b6&style=flat" alt="Prorupak" /> </p>
+**[Wandering ↗](https://www.sapkotarupak.com.np/photography)**  
+Photographs from places I've been and details that made me stop for a moment.
 
-<hr>
+### 05 / Come in.
 
-<details>
-<summary>
-  More stuff about me 🔥
-</summary>
+Have a role, a project, or something you'd like to talk about? I'd be glad to hear from you.
 
-<br >
-<div align="start" >
+**[Send me a note ↗](mailto:sapkotarupak5570@gmail.com)**
 
-#### Coding Stats
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RupakSapkota123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-
-</details>
-  </div> 
+<sub>Made in Lalitpur. Open to everywhere.</sub>
